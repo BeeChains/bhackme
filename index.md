@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+## Welcome to bhackme domain!
 
-You can use the [editor on GitHub](https://github.com/BeeChains/bh/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+This is [Bhackme](https://bhackme.vercel.app) Domain, a project bootstrapped with [`create-next-app`](https://github.com/zeit/next.js/tree/canary/packages/create-next-app) and using [Handshake](https://handshake.org) blockchain.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Getting Started
 
-### Markdown
+View some of our Top Level Domains here; [ancientmanuscripts](http://beechains.github.io/ancientmanuscripts.github.io), [lux299](https://beechains.github.io/lux299.github).
+[raspberrypios](https://beechains.github.io/home.raspberrypios) to get a idea of how we are growing from blockchain DNS roots to blossom a new [Web3](https://web3.foundation/)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Learn More
 
-```markdown
-Syntax highlighted code block
+To see more blockchain domains, take a look at the following resources:
 
-# Header 1
-## Header 2
-### Header 3
+- [b-the-spirit.crypto](https://gateway.pinata.cloud/ipfs/QmYpk2DdjnShgeBZUTJKnEgaEj7p1EciWikjP3Kb2Bh3yC/) - a IPFS/Unstoppable Domain
+- [bhandshake domain](https://beechains.github.io/bhandshake)
+- [lux299](https://beechains.github.io/lux299)
 
-- Bulleted
-- List
+You can check out my [GitHub repository](https://github.com/beechains) - your feedback and contributions are welcome!
 
-1. Numbered
-2. List
+## Universal Deployments - [using IPFS/Interplanetary File System](https://ipfs.com) [Handshake](https://handshake.org) and [Unstoppable Domains](https://unstoppabledomains.com).
 
-**Bold** and _Italic_ and `Code` text
+Interested in a domain or web page, please contact [bthespirit777@protonmail](https://protonmail.com) a creator.
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/BeeChains/bh/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Check out our vibes [myspiritwave](www.myspiritwave.xyz)
