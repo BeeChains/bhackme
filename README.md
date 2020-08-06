@@ -1,30 +1,25 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This is [Bhackme](https://bhackme.vercel.app) Domain, a project bootstrapped with [`create-next-app`](https://github.com/zeit/next.js/tree/canary/packages/create-next-app) and using [Handshake](https://handshake.org) blockchain.
 
 ## Getting Started
 
-First, run the development server:
-
-```bash
-npm run dev
-# or
-yarn dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+View some of our Top Level Domains here; [ancientmanuscripts](http://beechains.github.io/ancientmanuscripts.github.io), [lux299](https://beechains.github.io/lux299.github).
+[raspberrypios](https://beechains.github.io/home.raspberrypios) to get a idea of how we are growing from blockchain DNS roots to blossom a new [Web3](https://web3.foundation/)
 
 ## Learn More
 
-To learn more about Next.js, take a look at the following resources:
+To see more blockchain domains, take a look at the following resources:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- [b-the-spirit.crypto](https://gateway.pinata.cloud/ipfs/QmYpk2DdjnShgeBZUTJKnEgaEj7p1EciWikjP3Kb2Bh3yC/) - a IPFS/Unstoppable Domain
+- [bhandshake domain](https://beechains.github.io/bhandshake)
+- [lux299](https://beechains.github.io/lux299)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+You can check out my [GitHub repository](https://github.com/beechains) - your feedback and contributions are welcome!
 
-## Deploy on Vercel
+## Universal Deployments - [using IPFS/Interplanetary File System](https://ipfs.com) [Handshake](https://handshake.org) and [Unstoppable Domains](https://unstoppabledomains.com).
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/import?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+Interested in a domain or web page, please contact [bthespirit@protonmail](https://protonmail.com) a creator.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Check out our vibes [myspiritwave](www.myspiritwave.xyz)
+
+
+
