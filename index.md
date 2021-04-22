@@ -1,27 +1,19 @@
 ## Welcome to bhackme domain!
 
-This is [Bhackme](https://bhackme.vercel.app) Domain, a project bootstrapped with [`create-next-app`](https://github.com/zeit/next.js/tree/canary/packages/create-next-app) and using [Handshake](https://handshake.org) blockchain.
+This is [Bhackme](http://bhackme.hns.to/) Domain, a project using [Handshake](https://handshake.org) blockchain and Decentralized DNS.
 
 ## Getting Started
 
-View some of our Top Level Domains here; [ancientmanuscripts](http://beechains.github.io/ancientmanuscripts.github.io), [lux299](https://beechains.github.io/lux299.github).
-[raspberrypios](https://beechains.github.io/home.raspberrypios) to get a idea of how we are growing from blockchain DNS roots to blossom a new [Web3](https://web3.foundation/)
+View some of our Top Level Domains here; , [HNS-DOMAINS](http://home.hns-domains.hns.to/)
 
 ## Learn More
 
-To see more blockchain domains, take a look at the following resources:
+To see more 
+- [TheRootOfTheInternet/](http://rootoftheinternet.hns.to)
 
-- [b-the-spirit.crypto](https://gateway.pinata.cloud/ipfs/QmYpk2DdjnShgeBZUTJKnEgaEj7p1EciWikjP3Kb2Bh3yC/) - a IPFS/Unstoppable Domain
-- [bhandshake domain](https://beechains.github.io/bhandshake)
-- [lux299](https://beechains.github.io/lux299)
+## Universal Deployments - [using IPFS/Interplanetary File System](https://ipfs.com) [Handshake](https://handshake.org) and [Namebase.io](https://namebase.io/).
 
-You can check out my [GitHub repository](https://github.com/beechains) - your feedback and contributions are welcome!
 
-## Universal Deployments - [using IPFS/Interplanetary File System](https://ipfs.com) [Handshake](https://handshake.org) and [Unstoppable Domains](https://unstoppabledomains.com).
-
-Interested in a domain or web page, please contact [bthespirit777@protonmail](https://protonmail.com) a creator.
-
-Check out our vibes [myspiritwave](www.myspiritwave.xyz)
 
 [Buy,Sell or Trade With Paxful Kiosk here
 ![image](https://user-images.githubusercontent.com/37987346/97064635-5a94f300-1575-11eb-93ae-fc71560b1571.png)](https://paxful.com/roots/buy-bitcoin/index?kiosk=WDZdGMqXk7M)
