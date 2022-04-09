@@ -17,9 +17,9 @@ You can check out my [GitHub repository](https://github.com/beechains) - your fe
 
 ## Universal Deployments - [using IPFS/Interplanetary File System](https://ipfs.com) [Handshake](https://handshake.org) and [Unstoppable Domains](https://unstoppabledomains.com).
 
-Interested in a domain or web page, please contact [bthespirit777@protonmail](https://protonmail.com) a creator.
+Interested in a domain or web page, please contact [The WebMaster](mailto:webmaster@dworldwideweb.com).
 
-Check out our vibes [myspiritwave](www.myspiritwave.xyz)
+Check out our vibes [myspiritwave](www.myspiritwave.xyz) - Now on Handshake at [My Spirit Wave/](http://myspirtwave.hns.is/)
 
 
 
