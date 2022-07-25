@@ -9,7 +9,7 @@ const Home = () => (
 
     <main>
       <h1 className="title">
-        Welcome to <a href="home.googlebug/">bhackme domain!</a>
+        Welcome to <a href="home.bhackme/">bhackme domain!</a>
       </h1>
 
       <p className="description">
@@ -28,7 +28,7 @@ const Home = () => (
         </a>
 
         <a
-          href="home.1timefeedomains"
+          href="http://home.1timefeedomains.hns.is/"
           className="card"
         >
           <h3>Examples &rarr;</h3>
@@ -36,7 +36,7 @@ const Home = () => (
         </a>
 
         <a
-          href="https://protonmail.com" interest in making a handshake contact bthespirit777@protonmail.com
+          href="mailto://bthespirit777@proton.me/" interest in making a Handshake contact bthespirit777@proton.me
           className="card"
         >
           <h3>Deploy &rarr;</h3>
